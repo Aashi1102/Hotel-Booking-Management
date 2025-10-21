@@ -24,5 +24,5 @@ Strengthened my ability to **clean, analyze, and visualize data** entirely withi
 - Power Query  
 - Pivot Tables  
 - Data Visualization (Slicers, KPIs, Charts)
-- 
+ 
 **#Excel #DataAnalytics #PowerQuery #Dashboard #Kaggle #Visualization**
